@@ -1,12 +1,9 @@
 @extends('master')
 @section('content')
-
         <div class="content page-flexbox-wrapper">
             @include('includes.nav')
             <br>
             <div class="row">
-
-                {{--Tabs--}}
                 <div class="col s12">
                     <ul class="tabs">
                         <li class="tab col s3"><a  class="active"  href="#test1">Sample Table</a></li>
@@ -46,10 +43,7 @@
                     <div class="progress">
                         <div class="indeterminate"></div>
                     </div>
-
                 </div>
             </div>
-
         </div>
-
 @endsection
