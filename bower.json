@@ -1,0 +1,7 @@
+{
+  "name": "Laravel + Materialize Design 10132015",
+  "description": "Boredom sucks",
+  "dependencies": {
+    "materialize": "~0.97.1"
+  }
+}
