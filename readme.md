@@ -49,7 +49,7 @@ $ php artisan serve
 
 
 
-***That's it! Now you should be ready to building your application using laravel 5.1 and materializeCss!***
+***That's it! Now you should be ready to go building your application using laravel 5.1 and materializeCss!***
 
 
    [NodeJs]: <http://nodejs.org>
