@@ -32,7 +32,7 @@ $ composer install
 $ npm install
 ```
 
-### Step 4: Install Bower dependencies
+### Step 4: Update Bower dependencies
 ```sh
 $ bower update
 ```
@@ -49,7 +49,7 @@ $ php artisan serve
 
 
 
-***That's it! Now you should be ready to go building your application using laravel 5.1 and materializeCss!***
+***That's it! Now you should be ready to go building your application using laravel 5.1 and materializeCss -alright! xrexonx ***
 
 
    [NodeJs]: <http://nodejs.org>
