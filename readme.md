@@ -39,11 +39,6 @@ $ sudo npm install
 $ bower update
 ```
 
-### Step 5: Run Gulp
-```sh
-$ gulp
-```
-
 ### Step 5: Run PHP's built-in development server
 ```sh
 $ php artisan serve
