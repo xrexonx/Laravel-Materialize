@@ -23,7 +23,7 @@ $ git clone https://github.com/xrexonx/Laravel-Materialize.git
 ```
 ### Step 2: Install composer packages
 ```sh
-$ cd materialize-laravel
+$ cd Laravel-Materialize
 $ composer install
 ```
 
