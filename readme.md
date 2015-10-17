@@ -30,6 +30,8 @@ $ composer install
 ### Step 3: Install NPM dependencies
 ```sh
 $ npm install
+or
+$ sudo npm install
 ```
 
 ### Step 4: Update Bower dependencies
