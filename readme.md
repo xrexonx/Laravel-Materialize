@@ -47,14 +47,12 @@ $ php artisan serve
 ***That's it! Now you should be ready to go building your application using laravel 5.1 and materializeCss -alright! xrexonx ***
 
 
-## Some Errors encountered after running php artisan serve
+### If Errors encountered after running php artisan serve
 
-### Segmentation fault (core dumped)
-
+#### Segmentation fault (core dumped)
  *  solution from bobbybouwmann solved this issue ->  [Laracast]
 
-### No supported encrypter found. The cipher and / or key length are invalid
-
+#### No supported encrypter found.
  *  solution from baskan solved this issue ->  [LaravelIO]
 
 
