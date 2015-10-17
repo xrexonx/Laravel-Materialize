@@ -44,12 +44,25 @@ $ bower update
 $ php artisan serve
 ```
 
-
-
 ***That's it! Now you should be ready to go building your application using laravel 5.1 and materializeCss -alright! xrexonx ***
+
+
+## Some Errors encountered after running php artisan serve
+
+### Segmentation fault (core dumped)
+
+ *  solution from bobbybouwmann solved this issue ->  [Laracast]
+
+### No supported encrypter found. The cipher and / or key length are invalid
+
+ *  solution from baskan solved this issue ->  [LaravelIO]
+
+
 
 
    [NodeJs]: <http://nodejs.org>
    [Bower]: <http://bower.io>
    [Gulp]: <http://gulpjs.com>
    [Composer]: <https://getcomposer.org>
+   [Laracast]: <https://laracasts.com/discuss/channels/forge/segmentation-fault-composer-install-composer-not-generate-autoload>
+   [LaravelIO]: <http://laravel.io/forum/06-09-2015-no-supported-encrypter-found-the-cipher-and-or-key-length-are-invalid>
