@@ -62,5 +62,5 @@ $ php artisan serve
    [Bower]: <http://bower.io>
    [Gulp]: <http://gulpjs.com>
    [Composer]: <https://getcomposer.org>
-   [Laracast]: <https://laracasts.com/discuss/channels/forge/segmentation-fault-composer-install-composer-not-generate-autoload>
-   [LaravelIO]: <http://laravel.io/forum/06-09-2015-no-supported-encrypter-found-the-cipher-and-or-key-length-are-invalid>
+   [Laracast]: <https://laracasts.com/discuss/channels/forge/segmentation-fault-composer-install-composer-not-generate-autoload#reply-50146>
+   [LaravelIO]: <http://laravel.io/forum/06-09-2015-no-supported-encrypter-found-the-cipher-and-or-key-length-are-invalid#reply-25237>
