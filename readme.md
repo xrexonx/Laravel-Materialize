@@ -11,10 +11,6 @@ I assume that you have this dependencies on your machines. If not, just visit th
   * [Bower]
   * [Gulp]
 
-
-### Version
-0.0.1
-
 # Installation
 
 ### Step 1: Clone this repo
