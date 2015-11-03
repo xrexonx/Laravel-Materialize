@@ -7,3 +7,4 @@
     <link href="{!! asset('css/all.css') !!}" media="screen,projection" rel="stylesheet" type="text/css" />
 </head>
 <body>
+@include('includes.headerNav')

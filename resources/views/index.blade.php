@@ -1,7 +1,6 @@
 @extends('master')
 @section('content')
         <div class="content page-flexbox-wrapper">
-            @include('includes.nav')
             <br>
             <div class="row">
                 <div class="col s12">
