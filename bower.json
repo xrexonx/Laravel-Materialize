@@ -1,6 +1,10 @@
 {
   "name": "Laravel + Materialize Design 10132015",
   "description": "Boredom sucks",
+  "authors": [
+    "Rexon A. De los Reyes <rexondelosreyes88@gmail.com>",
+    "John Doe <johndoe011515@gmail.com>"
+  ],
   "dependencies": {
     "materialize": "~0.97.1"
   }
